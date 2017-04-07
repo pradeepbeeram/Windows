@@ -1,0 +1,16 @@
+
+1)Open Excel-Addin and Click on initialize button
+
+2)Select the filters for downloading the data. After successfully downloading template data, apply  any column changes and save the excel sheet to your local pc without clicking on Export data button for  uploading the applied changes in excel sheet to DB.
+
+3)Now re-open the saved excel file and you will find the previous  applied column changes are successfully retained in excel file even though they are not uploaded to DB .
+
+4)Now ,continue to apply column changes if any.
+
+5)And if required to check further with present applied changes , you can repeat 2 and 3 steps once again. You can find all the changes reflected in the excel sheet from beginning.
+
+6)Now click on Export data button to upload all the column changes to DB.
+
+7)After receiving success dialog box, again click on Initialize button to refresh all functionalities on excel addin
+
+8)You can check whether all the previous changes in data are saved to DB or not by clicking on Import data button with the previous selected filters. 
